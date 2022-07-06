@@ -1,5 +1,5 @@
 # Bacteria analyzer
-This is a program for handling data related to growth rates of different bacteria at different temperatures.
+This is an interactive program for handling data related to growth rates of different bacteria at different temperatures.
 
 
 ### Instructions
@@ -9,6 +9,7 @@ To run **bacteria_analyzer** download Anaconda, download all the program files i
       Spyder 3.3.2
       Anaconda
       IPython 7.1.1
+      Numpy
 ---
 ### test.txt
 [See test.txt](https://github.com/kalilamali/bacteria_analyzer/blob/master/test.txt) to see an example of the data that the program handles.
