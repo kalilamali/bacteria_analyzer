@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 
 """ MAIN SCRIPT runs program for bacteria analysis. """
 

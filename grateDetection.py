@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def grateDetection(data):
     """ GRATEDETECTION detects and displays the minimum and maximum values for
     the growth rate in data as a screen message. Also prompts an error message

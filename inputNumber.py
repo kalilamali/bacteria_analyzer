@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def inputNumber(prompt):
     """ INPUTNUMBER Prompts user to input a number. """
 
