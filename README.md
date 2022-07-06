@@ -27,3 +27,13 @@ The bacteria field is a numeric code that correspond to one of the following bac
 * 2 = *Bacillus cereus.*
 * 3 = *Listeria.*
 * 4 = *Brochothrix thermosphacta.*
+
+**Example plots**
+
+Plot1
+
+<img src="https://github.com/kalilamali/bacteria_analyzer/blob/master/plot1.png" width="500" height="500" />
+
+Plot2
+
+<img src="https://github.com/kalilamali/bacteria_analyzer/blob/master/plot2.png" width="500" height="500" />
