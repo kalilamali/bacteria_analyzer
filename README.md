@@ -10,6 +10,7 @@ To run **bacteria_analyzer** download Anaconda, download all the program files i
       Anaconda
       IPython 7.1.1
       Numpy
+      Matplotlib
 ---
 ### test.txt
 [See test.txt](https://github.com/kalilamali/bacteria_analyzer/blob/master/test.txt) to see an example of the data that the program handles.
