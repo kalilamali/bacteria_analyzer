@@ -30,5 +30,4 @@ The bacteria field is a numeric code that correspond to one of the following bac
 
 **Example plots**
 
-<img src="https://github.com/kalilamali/bacteria_analyzer/blob/master/plot1.png" width="300" height="250" />
-<img src="https://github.com/kalilamali/bacteria_analyzer/blob/master/plot2.png" width="300" height="250" />
+<img src="https://github.com/kalilamali/bacteria_analyzer/blob/master/plot1.png" width="250" height="200" /><img src="https://github.com/kalilamali/bacteria_analyzer/blob/master/plot2.png" width="250" height="200" />
