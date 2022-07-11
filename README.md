@@ -31,3 +31,6 @@ The bacteria field is a numeric code that correspond to one of the following bac
 **Example plots**
 
 <img src="https://github.com/kalilamali/bacteria_analyzer/blob/master/plot1.png" width="250" height="200" /><img src="https://github.com/kalilamali/bacteria_analyzer/blob/master/plot2.png" width="250" height="200" />
+
+## LICENSE
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
